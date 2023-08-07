@@ -249,7 +249,7 @@
     window.addEventListener('load', () => {
       let footerHoraireOuverture = select('.footer-horaire');
       if (footerHoraireOuverture) {
-        display_ct()
+       // display_ct()
       }
   
     });
